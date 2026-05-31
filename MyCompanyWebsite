@@ -1,0 +1,477 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Company</title>
+</head>
+<body>
+
+    <h1>Welcome to My Company</h1>
+
+    <p>
+        We provide quality services to our customers.
+    </p>
+
+</body>
+</html>
+<html></html>
+<head>
+    <title>My Company</title>
+    <bod></bod>
+    <h1></h1>
+    <p></p>
+<h1>FAST DRY UPS</h1>
+<p>printing services large format services and DTF Printing</p>
+<p>+260968402524</p>
+FAST DRY UPS Enterprises Limited
+
+printing dtf,banners poster desiging,branding,tshirt printing ,embroidary and uv printing
+<style class="cee"></style>
+<!DOCTYPE html>
+<html></html>
+<head></head>
+<title>FAST DRY UPS</title>
+<Link rel="stylesheet" href="style.css">
+    <head></head>
+    <bod></bod>
+    <img src="logo.png" alt="Company logo" width="150">
+    <h1>FAST DRY UPS</h1>
+    <P>
+        Printing dtf,banners posters desinging,branding,tshirt printing,embroidary and uv printing
+        </P>
+        <p>
+            +260968402524
+        </p>
+        <p>
+        Kitwe, Zambia 
+        </p>
+    </body>
+    </html>
+
+
+
+     body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+h1 {
+    color: brown;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    border-radius: 10px;
+}
+    <button>contact us</button>
+    button {
+    background-color: brown;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+index.html
+about.html
+services.html
+contact.html
+style.css
+logo.png
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact</a>
+</nav>
+nav {
+    background-color: brown;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<h1>About Us</h1>
+
+<p>
+FAST DRY UPS specializes in printin , branding and desinging.
+</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Services</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<h1>Our Services</h1>
+
+<ul>
+    <li>Large format printing & branding</li>
+    <li>DTF  printing</li>
+    <li>Tshirt printing ,embroidary</li>
+</ul>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<h1>Contact Us</h1>
+
+<p>Phone: +260 968 402 524</p>
+<p>Email: deal@fastdrups@gmail.com</p>
+<p>Kitwe, Zambia</p>
+
+</body>
+</html>
+<h1>Contact Us</h1>
+
+<form>
+    <label>Name:</label><br>
+    <input type="text" placeholder="Enter your name"><br><br>
+
+    <label>Email:</label><br>
+    <input type="email" placeholder="Enter your email"><br><br>
+
+    <label>Message:</label><br>
+    <textarea rows="5" cols="30"></textarea><br><br>
+
+    <button type="submit">Send Message</button>
+</form>
+input,
+textarea {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+form {
+    margin-top: 20px;
+}
+<a href="https://wa.me/260968402524" target="_blank">
+    <button>Chat on WhatsApp</button>
+</a>
+<iframe
+src="YOUR_GOOGLE_MAP_EMBED_LINK"
+width="600"
+height="450"
+style="border:0;"
+allowfullscreen=""
+loading="lazy">
+</iframe>
+<h1>FAST DRY UPS</h1>
+
+<p>
+we make your imagination come true.
+</p>
+
+<button>Order Now</button>
+<button>Learn Crochet</button>
+<section>
+    <h1>Good quality printing</h1>
+
+    <p>
+        High qualit prints,designs and branding.
+    </p>
+
+    <button>Get Started</button>
+</section>
+section {
+    padding: 80px 20px;
+}script.js
+<script src="script.js"></script>
+
+<body>
+
+    <h1>Welcome to My Website</h1>
+
+    <script src="script.js"></script>
+</body>
+
+
+alert("Welcome to FAST DRY UPS!");
+<button onclick="sayHello()">
+    Click Me
+</button>
+function sayHello() {
+    alert("Thank you for visiting our website!");
+}
+<h2 id="message">Welcome Visitor</h2>
+
+<button onclick="changeText()">
+    Change Text
+</button>
+function changeText() {
+    document.getElementById("message").innerHTML =
+        "Thank you for visiting FAST DRY UPS!";
+}
+<input type="text" id="name">
+<button onclick="checkName()">
+    Submit
+</button>
+function checkName() {
+
+    let name =
+        document.getElementById("name").value;
+
+    if (name === "") {
+        alert("Please enter your name.");
+    } else {
+        alert("Hello " + name);
+    }
+}
+<button onclick="changeColor()">
+    Change Background
+</button>
+function changeColor() {
+    document.body.style.backgroundColor =
+        "lightblue";
+}
+<p id="year"></p>
+document.getElementById("year").innerHTML =
+    new Date().getFullYear();
+    <footer>
+    <p>
+        Copyright © <span id="year"></span>
+        FAST DRY UPS
+    </p>
+</footer>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAST DRY UPS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+width: 1000px;
+width: 100%;
+max-width: 1000px;
+img {
+    max-width: 100%;
+    height: auto;
+}
+<div class="services">
+    <div class="box">Crochet Training</div>
+    <div class="box">Custom Orders</div>
+    <div class="box">Accessories</div>
+</div>
+.services {
+    display: flex;
+    gap: 20px;
+}
+
+.box {
+    padding: 20px;
+    border: 1px solid black;
+}
+.services {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+<div class="gallery">
+    <img src="1.jpg">
+    <img src="2.jpg">
+    <img src="3.jpg">
+    <img src="4.jpg">
+</div>
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+@media (max-width: 768px) {
+
+    nav a {
+        display: block;
+        margin: 10px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+}
+<div class="card">
+    <h3>Crochet Training</h3>
+    <p>Learn crochet step by step.</p>
+</div>
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+<section class="hero">
+    <h1>Good quality printing</h1>
+
+    <p>
+        High qualit prints,designs and branding.
+    </p>
+
+    <button>Contact Us</button>
+</section>
+.hero {
+    padding: 100px 20px;
+    text-align: center;
+}
+git init
+git commit -m "Created company website homepage"
+FAST DRY UPS-website
+git remote add origin YOUR_REPOSITORY_URL
+
+git branch -M main
+
+git push -u origin main
+https://FASTDRYUPS.com
+git status
+git add .
+git commit -m "Updated contact page"
+git push
+git pull
+git status
+
+git add .
+
+git commit -m "Describe changes"
+
+git push
+mkdir backend
+cd backend
+npm init -y
+npm install express
+server.js
+const express = require("express");
+
+const app = express();
+
+app.get("/", (req, res) => {
+    res.send("Welcome to my company website");
+});
+
+app.listen(3000, () => {
+    console.log("Server running on port 3000");
+});
+node server.js
+http://localhost:3000
+Welcome to my company website
+npm install body-parser
+const express = require("express");
+
+const app = express();
+
+app.use(express.json());
+
+app.post("/contact", (req, res) => {
+
+    const { name, email, message } = req.body;
+
+    console.log(name);
+    console.log(email);
+    console.log(message);
+
+    res.send("Message received");
+});
+
+app.listen(3000);
+npm install mysql2
+const mysql = require("mysql2");
+
+const db = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "",
+    database: "companydb"
+});
+CREATE DATABASE companydb;
+CREATE TABLE contacts (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100),
+    email VARCHAR(100),
+    message TEXT
+);
+db.query(
+"INSERT INTO contacts(name,email,message) VALUES(?,?,?)",
+[name,email,message]
+);
+npm install nodemailer
+const nodemailer = require("nodemailer");
+Browser
+   ↓
+Frontend
+(HTML/CSS/JS)
+   ↓
+Backend
+(Node.js)
+   ↓
+Database
+(MySQL)
+Fastdryups.com
+index.html
+about.html
+services.html
+contact.html
+style.css
+script.js
+images/
+
+
+
+
+
+
+
+
+
